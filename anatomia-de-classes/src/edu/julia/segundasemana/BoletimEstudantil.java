@@ -5,7 +5,7 @@ public class BoletimEstudantil {
 		if (mediaFinal < 6)
 			System.out.println("REPROVADO");
 		else if (mediaFinal == 6)
-			System.out.println("PROVA RCUPERAÇÃO");
+			System.out.println("PROVA RECUPERAÇÃO");
 		else
 			System.out.println("APROVADO");
   }
