@@ -25,7 +25,7 @@ public class TiposVariaveis {
         //String 
         String name = "Júlia";
         System.out.println("String " + name);
-        //Char - apenas 1 caractere
+        //Char - Utilizado para caracteres 
         char caractere = 66;
         System.out.println("Char " + caractere);
     }
