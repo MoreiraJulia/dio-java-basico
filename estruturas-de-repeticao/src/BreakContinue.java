@@ -5,5 +5,11 @@ public class BreakContinue {
                 break;
                 System.out.println(num);
         }      
+
+        for(int x = 1; x <=5; x++){
+            if(x == 3)
+                continue;
+                System.out.println(x);
+        }     
     }
 }
